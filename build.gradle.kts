@@ -38,7 +38,7 @@ dependencies {
     runtimeOnly("com.h2database:h2")
 
     // API Documentation
-    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0")
+    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.7.0")
 
     // Testing
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
